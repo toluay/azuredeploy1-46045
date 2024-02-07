@@ -14,7 +14,7 @@ This is a repository for a web application developed with Django(my app), built 
    - [API Documentation](#api-documentation)
    - [Security Configuration](#security-configuration)
 
-## Project Structure....
+## Project Structure.......
 
     ..
     ├── home                           # Starter home app
