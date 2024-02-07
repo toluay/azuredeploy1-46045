@@ -2,7 +2,7 @@
 
 This is a repository for a web application developed with Django(my app), built with [Crowdbotics](https://crowdbotics.com)
 
-## Table of Contents
+## Table of Contentsss
 
 1. [Project Structure](#project-structure)
 2. [Features](#features)
