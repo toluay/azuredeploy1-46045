@@ -8,7 +8,7 @@ Crowdbotics is an easy way to build software applications of all kinds. You can 
 
 The reason this works is that most software applications and features we want to build are similar to applications that have been built before. We've crawled hundreds of thousands of public code repositories to teach the Crowdbotics engine how to create software.
 
-As a result, Crowdbotics can generate new applications automatically in a standardized way.
+As a result....., Crowdbotics can generate new applications automatically in a standardized way.
 
 ### Useful Links
 
