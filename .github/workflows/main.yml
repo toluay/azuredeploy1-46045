@@ -56,6 +56,7 @@ jobs:
         with:
           inlineScript: |
             az config set extension.use_dynamic_install=yes_without_prompt
-            az containerapp registry set -n tolex -g CBDockerdeployment --server tolex.azurecr.io --username ${{ secrets.MY_USERNAME }} --password ${{ secrets.MY_PASSWORD }}
+            az container create -n tolex --resource-group CBDockerdeployment --image crowdbotics.azurecr.io/tolex:${{ github.sha }} --registry-username ${{ secrets.MY_USERNAME }} --registry-password ${{ secrets.MY_PASSWORD }} --dns-name-label tolex
+
            
             export DATABASE_URL=postgres://pxafdpwewhhvez:1e03caf7711b6e6fb7eb31ec30627077d28f513ca6567b95412daf2738475c53@ec2-52-54-200-216.compute-1.amazonaws.com:5432/derb0rm33tb439
