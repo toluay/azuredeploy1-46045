@@ -1,6 +1,6 @@
 # azuredeploy1_46045
 
-This is a repository for a web application developed with Django, built with [Crowdbotics](https://crowdbotics.com)
+This is a repository for a web application developed with Django(my app), built with [Crowdbotics](https://crowdbotics.com)
 
 ## Table of Contents
 
