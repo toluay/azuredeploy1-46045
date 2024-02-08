@@ -17,7 +17,7 @@ This is a repository for a web application developed with Django(my app), built 
 ## Projects Structure...bb.
 
     ..
-    ├── home                           # Starter home app
+    ├── home.                           # Starter home app
     ├── modules                        # Crowdbotics Modules app
     ├── azuredeploy1_46045  # Django project configurations
     ├── static                         # Static assets
