@@ -1,4 +1,4 @@
-# When this action will be executed
+# When this action will be executed...
 on:
   # Automatically trigger it when changes are pushed to specific branches or paths
   push:
